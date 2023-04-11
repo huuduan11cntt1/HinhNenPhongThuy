@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64069125224",
+    "firebase_url": "https://hinh-nen-phong-thuy-default-rtdb.firebaseio.com",
+    "project_id": "hinh-nen-phong-thuy",
+    "storage_bucket": "hinh-nen-phong-thuy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64069125224:android:f1f8e2eebd8cccdd3567dd",
+        "android_client_info": {
+          "package_name": "king.tran.hinhnenphongthuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64069125224-jd5pj3rv625gj1nf9jh3k5h39oc06ra2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "king.tran.hinhnenphongthuy",
+            "certificate_hash": "b46962cff91be825914ba4f4a3de24b73f9c5f44"
+          }
+        },
+        {
+          "client_id": "64069125224-hr556tt116epcgl9km2iqbk5husbef33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6_ECyER9uUs0w9swWdaXRYQw8LPd44nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64069125224-hr556tt116epcgl9km2iqbk5husbef33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

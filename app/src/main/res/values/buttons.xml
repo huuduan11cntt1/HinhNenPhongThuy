@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- we need two arrays, one for the icons and one for the colors of the icons-->
+    <!-- icons array-->
+    <array name="icons">
+        <item>@drawable/ic_baseline_circle_24</item>
+        <item>@drawable/ic_baseline_circle_24</item>
+        <item>@drawable/ic_baseline_circle_24</item>
+        <item>@drawable/ic_baseline_circle_24</item>
+        <item>@drawable/ic_baseline_circle_24</item>
+
+    </array>
+    <!-- icons colors-->
+    <array name="colors">
+        <item>@color/purple_tho</item>
+        <item>@color/purple_kim</item>
+        <item>@color/purple_thuy</item>
+        <item>@color/purple_moc</item>
+        <item>@color/purple_hoa</item>
+    </array>
+
+</resources>
